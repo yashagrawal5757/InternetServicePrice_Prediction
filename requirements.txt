@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+os
+sklearn
+xgboost
+plotly.express
+datetime
+wordcloud
+pickle
+tensorflow
+keras
