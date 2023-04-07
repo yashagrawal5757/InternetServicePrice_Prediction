@@ -3,7 +3,7 @@ InternetServicePrice_Prediction
 
 Comprehensive predictive analysis on how Internet Service Prices vary across different geographics, demographics etc. for improved internet access and affordability.
 
-The project can be well understood by this [blog] - https://medium.com/@priyanka_60002/cis-5450-final-project-blog-22f1483fd424
+The project can be well understood by this [blog](https://medium.com/@priyanka_60002/cis-5450-final-project-blog-22f1483fd424)
 
 ### Requirements
 
