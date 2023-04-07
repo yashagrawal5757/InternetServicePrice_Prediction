@@ -45,11 +45,10 @@ The project makes use of 5 csv files downloaded from [here](https://www.kaggle.c
 	* Feature Encoding
 - Modeling & Hyper parameter optimization
 
-<p>
-<img src="results/map.png" align="left" height="300" width="350" > 
-</p>
 
-<p>
+<img src="results/map.png" height="300" width="350" > 
+
+
 ### Results
 
 20 different versions of ML and DL models were implemented. The results are given below : 
