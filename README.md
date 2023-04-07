@@ -46,12 +46,12 @@ The project makes use of 5 csv files downloaded from [here](https://www.kaggle.c
 - Modeling & Hyper parameter optimization
 
 
-<img src="results/map.png" height="300" width="350" > 
+<img src="results/map.png" height="350" width="650" > 
 
 
 ### Results
 
 20 different versions of ML and DL models were implemented. The results are given below : 
 
-<img src="results/results.png" align="left" height="600" width="350" > <br><br><br>
+<img src="results/results.png" align="left" height="400" width="6000" > <br><br><br>
 
